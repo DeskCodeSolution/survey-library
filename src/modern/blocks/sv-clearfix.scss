@@ -3,3 +3,7 @@
     display: table;
     clear: both;
 }
+
+.sv-row.sv-clearfix>div {
+    min-width: unset !important;
+}
